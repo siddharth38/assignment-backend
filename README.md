@@ -20,9 +20,3 @@ Run the project:
 npm start
 
 
-Please let me know if you have any questions or need further assistance. I look forward to your feedback.
-
-Best regards,
-
-[Your Name]
-
